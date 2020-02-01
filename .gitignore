@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# mga folder ko na hindi dapat i-upload
+/database/
+file_na_hindi_ina_upload.txt
